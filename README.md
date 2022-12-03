@@ -60,7 +60,7 @@ Tìm các chỉ số của các công việc trong dự án như trong file `bt5
 
 Input:
 
-    `.\Ear_val.py -f .\bt5.3.csv -c 15`
+    .\Ear_val.py -f .\bt5.3.csv -c 15
 
 Output:
 
