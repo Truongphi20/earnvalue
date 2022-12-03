@@ -1,0 +1,7 @@
+Activity	Predecessors	Durations(wks)	Budget($)	Actual cost ($)	% complete
+A	-	3	3000	3000	100
+B	-	5	25000	30000	100
+C	A	4	12000	10000	100
+D	B	10	10000	7000	60
+E	C	15	30000	10000	25
+F	C	18	72000	20000	40
