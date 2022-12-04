@@ -44,7 +44,7 @@ Tính các giá trị cho tổng thể dự án:
 Chú giải `input_file`:
 
 - Là file csv, phân các các thành phần bằng tab (tham khảo bt5.3.csv)
-- Có thể thay đổi hoặc xóa header nhưng phải giữ nguyên thứ tự
+- Có thể thay đổi tên header nhưng phải giữ nguyên thứ tự
 - Cột 1: Tên công việc
 - Cột 2: Tên công việc liền trước
 - Cột 3: Thời gian diễn ra công việc
